@@ -11,7 +11,7 @@
 
 📝 **LAST UPDATED:** ![Dynamic Timestamp](https://img.shields.io/github/last-commit/lilnjoro/leetcode-solutions?label=%20&color=grey&style=flat)
 
-![Language](https://badgen.net/badge/Language/Python%203.10/yellow)
+![Language](https://badgen.net/badge/Language/Python&SQL%203.10/darkyellow)
 ![Progress](https://img.shields.io/badge/Solved-10%2B-brightgreen)
 
 A structured collection of my LeetCode solutions, organized by difficulty and topic with time/space complexity analysis.
