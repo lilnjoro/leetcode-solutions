@@ -4,7 +4,7 @@
 
 [![LeetCode Stats Card](https://leetcode-stats-six.vercel.app/api?username=yYhHjQnPaD&theme=dark)](https://leetcode.com/u/yYhHjQnPaD/)
 ![Python](https://badgen.net/badge/Language/Python%203.10/yellow)
-![SQL](https://badgen.net/badge/Databse/SQL/blue)
+![SQL](https://badgen.net/badge/Database/SQL/blue)
 ![Progress](https://badgen.net/badge/Solved/10/brightgreen)
 ---
 
@@ -12,7 +12,7 @@
 
 📝 **LAST UPDATED:** ![Dynamic Timestamp](https://img.shields.io/github/last-commit/lilnjoro/leetcode-solutions?label=%20&color=grey&style=flat)
 
-![Language](https://badgen.net/badge/Language/Python&SQL%203.10/darkyellow)
+![Language](https://badgen.net/badge/Language/Python&SQL%203.10/yellow)
 ![Progress](https://img.shields.io/badge/Solved-10%2B-brightgreen)
 
 A structured collection of my LeetCode solutions, organized by difficulty and topic with time/space complexity analysis.
