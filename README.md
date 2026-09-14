@@ -3,7 +3,8 @@
 # 🧩 MY LEETCODE SOLUTIONS
 
 [![LeetCode Stats Card](https://leetcode-stats-six.vercel.app/api?username=yYhHjQnPaD&theme=dark)](https://leetcode.com/u/yYhHjQnPaD/)
-![Language](https://img.shields.io/badge/Language-Python%20%7C%20-blueSQL%20%7C%20-yellow)
+![Python](https://badgen.net/badge/Language/Python%203.10/yellow)
+![SQL](https://badgen.net/badge/Databse/SQL/blue)
 ![Progress](https://badgen.net/badge/Solved/10/brightgreen)
 ---
 
