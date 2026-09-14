@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![Language](https://img.shields.io/badge/Language-Python%20%7C%20JavaScript%20%7C%20C-blue)
+![Language](https://img.shields.io/badge/Language-Python%20%7C%20SQL%20%7C%20Pandas-blue)
 ![Progress](https://img.shields.io/badge/Solved-100%2B-brightgreen)
 
 A structured collection of my LeetCode solutions, organized by difficulty and topic with time/space complexity analysis.
@@ -11,10 +11,10 @@ A structured collection of my LeetCode solutions, organized by difficulty and to
 
 | Difficulty | Solved |
 | :--- | :--- |
-| **Easy** | 0 |
-| **Medium** | 0 |
+| **Easy** | 9 |
+| **Medium** | 1 |
 | **Hard** | 0 |
-| **Total** | **0** |
+| **Total** | **10** |
 
 ---
 
