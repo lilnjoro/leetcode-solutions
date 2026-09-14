@@ -1,49 +1,52 @@
-# 🧩 LeetCode Solutions
+<div align="center">
 
-![LeetCode Stats](https://leetcode-badge.shiningtony.now.sh/api/leetcode?username=YOUR_LEETCODE_USERNAME&theme=dark)
-[![LeetSync](https://img.shields.io/badge/Synced%20with-LeetSync-orange?style=flat&logo=github)](https://github.com/30x30/LeetSync)
-[![Language](https://img.shields.io/badge/Language-Python%20%7C%20SQL-blue?style=flat&logo=python)](https://www.python.org/)
+# 🧩 MY LEETCODE SOLUTIONS
 
-Automated repository tracking my LeetCode progress, focused on algorithmic problem-solving in Python and database query optimization in SQL. Solutions are automatically synced upon submission.
+[![LeetCode Stats Card](https://leetcode-stats-six.vercel.app/api?username=lilnjoro&theme=dark)](https://leetcode.com/lilnjoro)
+![Language](https://img.shields.io/badge/Language-Python%20%7C%20-blueSQL%20%7C%20-yellow)
+![Progress](https://img.shields.io/badge/Solved-100%2B-brightgreen)
+---
+
+</div>
+
+📝 **LAST UPDATED:** ![Dynamic Timestamp](https://img.shields.io/github/last-commit/lilnjoro/leetcode-solutions?label=%20&color=grey&style=flat)
+
+![Language](https://img.shields.io/badge/Language-Python%20%7C%20-blueSQL%20%7C%20-yellow)
+![Progress](https://img.shields.io/badge/Solved-100%2B-brightgreen)
+
+A structured collection of my LeetCode solutions, organized by difficulty and topic with time/space complexity analysis.
 
 ---
 
-## 📊 Summary Stats
+## 📊 Summary
 
-| Category | Solved | Target |
-| :--- | :---: | :---: |
-| 🟢 **Easy** | 0 | — |
-| 🟡 **Medium** | 0 | — |
-| 🔴 **Hard** | 0 | — |
-| 🏁 **Total** | **0** | **—** |
-
----
-
-## 🗂️ Problem Directory
-
-### 🐍 Python (Algorithms & Data Structures)
-
-| # | Title | Solution | Difficulty | Topics |
-| :-: | :--- | :-: | :-: | :--- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/0001-two-sum.py) | 🟢 Easy | Array, Hash Table |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/0002-add-two-numbers.py) | 🟡 Medium | Linked List, Math |
-
-### 🗄️ SQL (Database & Data Manipulation)
-
-| # | Title | Solution | Difficulty | Key Concepts |
-| :-: | :--- | :-: | :-: | :--- |
-| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](./sql/0175-combine-two-tables.sql) | 🟢 Easy | `LEFT JOIN` |
-| 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](./sql/0184-department-highest-salary.sql) | 🟡 Medium | Subqueries, `JOIN`, Aggregation |
+| Difficulty | Solved |
+| :--- | :--- |
+| **Easy** | 9 |
+| **Medium** | 0 |
+| **Hard** | 1 |
+| **Total** | **10** |
 
 ---
 
-## ⚙️ Repository Structure
+## 🛠️ Solutions Index
+
+| ID | Title | Solution | Difficulty | Topic | Time | Space |
+| :---: | :--- | :---: | :---: | :--- | :---: | :---: |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./solutions/0001-two-sum/solution.py) | 🟢 Easy | Array, Hash Table | $O(n)$ | $O(n)$ |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./solutions/0002-add-two-numbers/solution.py) | 🟡 Medium | Linked List, Math | $O(\max(m,n))$ | $O(1)$ |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./solutions/0020-valid-parentheses/solution.js) | 🟢 Easy | String, Stack | $O(n)$ | $O(n)$ |
+
+---
+
+## 📂 Repository Structure
 
 ```text
-├── python/
-│   ├── 0001-two-sum.py
-│   └── 0002-add-two-numbers.py
-├── sql/
-│   ├── 0175-combine-two-tables.sql
-│   └── 0184-department-highest-salary.sql
-└── README.md
+.
+├── README.md
+└── solutions/
+    ├── 0001-two-sum/
+    │ └── solution.py          # Problem description & detailed breakdown
+    │                            # Source code with inline comments
+    └── 0002-add-two-numbers/
+        └── solution.py
