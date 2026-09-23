@@ -23,10 +23,10 @@ A structured collection of my LeetCode solutions, organized by difficulty and to
 
 | Difficulty | Solved |
 | :--- | :--- |
-| **Easy** | 9 |
-| **Medium** | 0 |
-| **Hard** | 1 |
-| **Total** | **10** |
+| **Easy** | 16 |
+| **Medium** | 1 |
+| **Hard** | 0 |
+| **Total** | **17** |
 
 ---
 
